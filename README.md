@@ -2,7 +2,7 @@ Flux 不是一個程式庫 (Library)，也不只是用在 React 應用程式裡�
 
 ## 課程內容
 
-本課程延續 [React 101 輕鬆入門](https://www.mokoversity.com/course/React/React-101-Online) 有關「什麼時候需要 State Container」的主題開始，從建立 Flux 模式的思維開始，到撰寫 React 與 Flux 模式的應用程式。
+本課程延續 [React 101 輕鬆入門](https://www.mokoversity.com/course/React/React-101-Online) 課程裡，關於「什麼時候需要 State Container」的主題開始，從建立 Flux 模式的思維開始，到撰寫 React 與 Flux 模式的應用程式。
 
 * 繼續討論 State Container 的觀念
 * State Container 的用途與導入時機
